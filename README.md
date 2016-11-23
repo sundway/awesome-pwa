@@ -1,4 +1,4 @@
-![](https://gw.alicdn.com/tps/TB1qVi3OpXXXXcwXXXXXXXXXXXX-740-310.png)
+![](https://gw.alicdn.com/tps/TB1rfqNOpXXXXa1XVXXXXXXXXXX-925-388.svg)
 
 ## 文章
 ### 介绍
