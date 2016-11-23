@@ -10,8 +10,6 @@
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/?hl=en)
 * [Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 * [Progressive Web Apps，复兴序章「QCon 上海 2016](https://huangxuan.me/2016/10/20/pwa-qcon2016/)
-### 
-
 
 ## 视频
 * [Progressive Web App Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb)
