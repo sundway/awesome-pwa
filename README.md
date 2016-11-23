@@ -7,6 +7,7 @@
 * [Progressive Web Apps with React.js: Part I — Introduction](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.qzmz2yle9)
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/?hl=en)
 * [Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
+* [Progressive Web Apps，复兴序章「QCon 上海 2016](https://huangxuan.me/2016/10/20/pwa-qcon2016/)
 
 
 ## 视频
@@ -15,6 +16,7 @@
 
 ## 讨论
 * [Get your questions answered on Stack Overflow](http://stackoverflow.com/questions/tagged/progressive-web-apps)
+* [如何看待 Progressive Web Apps ？](https://www.zhihu.com/question/46690207)
 
 ## 应用
 * [Progressive Web Apps](https://pwa.rocks/)
