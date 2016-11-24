@@ -26,10 +26,12 @@
 * [如何看待 Progressive Web Apps ？](https://www.zhihu.com/question/46690207)
 
 ## 工具
-* [sw-precache](https://github.com/GoogleChrome/sw-precache) - 用于自动预先加载静态资源。
-* [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) 用于处理运行时缓存和回调策略
+* [Lighthouse](https://github.com/googlechrome/lighthouse)，查看加载性能。
+* [sw-precache](https://github.com/GoogleChrome/sw-precache)，用于自动预先加载静态资源。
+* [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox)，用于处理运行时缓存和回调策略。
 
 ## 应用
 * [Progressive Web Apps](https://pwa.rocks/)
+* [React-hn](https://react-hn.appspot.com/#/?_k=yfqwk5)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
