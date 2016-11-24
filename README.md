@@ -7,7 +7,7 @@
 * [Apps are faltering. But progressive web apps seem pretty legit](https://medium.com/@cameronmoll/apps-are-dying-2f27baef21dd#.37jt58xfu)
 * [Native Apps are Doomed](https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.z77uddqtg)
 * [The Future of the Mobile Web](https://docs.google.com/presentation/d/1soXifCLcxggQXQDOw3IMDnEXlLTK4xRIq54NW202FLc/view#slide=id.g13671b4ad0_27_132)
-* [Progressive Web Apps with React.js: Part I — Introduction](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.qzmz2yle9)
+* [Progressive Web Apps With React](https://addyosmani.com/blog/progressive-web-apps-with-react/)
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/?hl=en)
 * [Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
 * [Progressive Web Apps，复兴序章「QCon 上海 2016](https://huangxuan.me/2016/10/20/pwa-qcon2016/)
@@ -20,8 +20,11 @@
 * [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
 
 ### Service Workers
+* [Service Workers API](https://www.w3.org/TR/service-workers/)
+* [ServiceWorker MDN](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker)
 * [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
 * [Debugging Service Workers](https://developers.google.com/web/fundamentals/getting-started/codelabs/debugging-service-workers/)
+* [Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73#.k9jaasjpu)
 
 ## 视频
 * [Progressive Web App Summit 2016](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAWWNR_Q6eLPhsyx6VvYjVb)
@@ -40,10 +43,10 @@
 * [如何看待 Progressive Web Apps ？](https://www.zhihu.com/question/46690207)
 
 ## 工具
-* [Lighthouse](https://github.com/googlechrome/lighthouse)，检测各项性能清单。
+* [Lighthouse](https://github.com/googlechrome/lighthouse) 检测各项性能清单。
 * [RealFaviconGenerator](http://realfavicongenerator.net/?spm=0.0.0.0.MYMvRv#.WDZpjaJ97FQ) 生成 icon。
-* [sw-precache](https://github.com/GoogleChrome/sw-precache)，用于自动预先加载静态资源。
-* [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox)，用于处理运行时缓存和回调策略。
+* [sw-precache](https://github.com/GoogleChrome/sw-precache) 用于自动预先加载静态资源。
+* [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox) 用于处理运行时缓存和回调策略。
 * [web-push-libs](https://github.com/web-push-libs/) Web 消息推送库（Node.js, PHP, Java, Python）
 
 ## 应用
