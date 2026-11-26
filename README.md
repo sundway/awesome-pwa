@@ -50,6 +50,8 @@
 * [web-push-libs](https://github.com/web-push-libs/) Web 消息推送库（Node.js, PHP, Java, Python）
 
 ## 应用
+
+* [AshuTeacher](https://ashuteacher.vercel.app) - AI Voice Blackboard, 195-country cascading syllabus academy, PDF/photo exam solver, Project/Thesis & Research Studio with live AI Viva Defense, and 3D flashcards in 100+ languages (Installable PWA + Android TWA).
 * [MoTree：技能树移动版](https://github.com/phodal/motree)
 * [Progressive Web Apps](https://pwa.rocks/)
 * [React-HN](https://react-hn.appspot.com/#/?_k=yfqwk5)
